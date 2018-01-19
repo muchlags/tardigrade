@@ -1,0 +1,5 @@
+<?Php include('application/libraries/init.php');
+
+
+$page->set_baseurl('cap'); // folder where the index is located i.e. for http:\\thesite.com\foldername == "foldername"
+$page->set_controller('home');
