@@ -18,3 +18,4 @@ echo phpversion();
 //	rootdir
 // getters and setters of framework must have underscores "_"
 
+
